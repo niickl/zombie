@@ -1,0 +1,47 @@
+21
+C:\Users\nicel\OneDrive\Documentos\codigos\java\jogo\zombie\src\recursos\tiles\asfalto.png
+C:\Users\nicel\OneDrive\Documentos\codigos\java\jogo\zombie\src\recursos\tiles\calcada.png
+C:\Users\nicel\OneDrive\Documentos\codigos\java\jogo\zombie\src\recursos\tiles\terra.png
+C:\Users\nicel\OneDrive\Documentos\codigos\java\jogo\zombie\src\recursos\tiles\porta2.png
+C:\Users\nicel\OneDrive\Documentos\codigos\java\jogo\zombie\src\recursos\tiles\porta4.png
+C:\Users\nicel\OneDrive\Documentos\codigos\java\jogo\zombie\src\recursos\tiles\cone.png
+07
+C:\Users\nicel\OneDrive\Documentos\codigos\java\jogo\zombie\src\recursos\tiles\janela.png
+C:\Users\nicel\OneDrive\Documentos\codigos\java\jogo\zombie\src\recursos\tiles\calcada_vertical.png
+C:\Users\nicel\OneDrive\Documentos\codigos\java\jogo\zombie\src\recursos\tiles\parede.png
+C:\Users\nicel\OneDrive\Documentos\codigos\java\jogo\zombie\src\recursos\tiles\porta1.png
+C:\Users\nicel\OneDrive\Documentos\codigos\java\jogo\zombie\src\recursos\tiles\porta3.png
+C:\Users\nicel\OneDrive\Documentos\codigos\java\jogo\zombie\src\recursos\tiles\muro_alto.png
+C:\Users\nicel\OneDrive\Documentos\codigos\java\jogo\zombie\src\recursos\tiles\muro_baixo.png
+C:\Users\nicel\OneDrive\Documentos\codigos\java\jogo\zombie\src\recursos\tiles\poste1.png
+C:\Users\nicel\OneDrive\Documentos\codigos\java\jogo\zombie\src\recursos\tiles\poste2.png
+C:\Users\nicel\OneDrive\Documentos\codigos\java\jogo\zombie\src\recursos\tiles\hidrante.png
+18
+19
+20
+21
+03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 09 01 01 01 01 
+03 03 03 03 09 09 09 09 09 09 09 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 09 01 01 01 01
+03 03 03 03 09 09 09 09 09 09 09 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 17 01 01 01 01
+03 03 03 03 09 09 09 09 09 09 09 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 09 01 01 01 01
+03 03 03 03 02 02 02 02 02 02 02 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 09 01 01 01 01
+03 03 03 03 10 10 10 10 10 10 10 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 15 01 01 06 01
+03 03 03 03 10 10 08 10 11 12 10 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 16 01 01 01 01
+03 03 03 03 10 10 10 10 04 05 10 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 09 01 01 01 01
+03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 09 01 01 01 01
+03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 09 01 01 01 01
+03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 09 01 01 01 01
+03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 09 01 01 01 01
+03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 09 01 01 01 01
+03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 09 01 01 01 01
+03 03 03 03 03 03 03 03 03 03 03 03 03 13 13 13 13 13 13 03 03 03 03 03 03 03 03 15 01 01 01 01
+03 03 03 03 03 03 03 03 03 03 03 03 03 14 14 14 14 14 14 03 03 03 03 03 03 03 03 16 01 01 01 01
+02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 01 01 01 01
+01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01
+01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01
+01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01
+01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01
+01 01 01 01 01 01 01 01 01 06 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01
+01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 06 01 01 01 01 01 01 01 01 01 01
+01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01
+%
